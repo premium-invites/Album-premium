@@ -1,0 +1,10 @@
+ÁLBUM ONLINE V5 — JOICY GABRIELY
+Tema: rosa pink/rosé e dourado.
+ID do evento: joicy-gabriely
+Cadastre esse ID no Painel Administrativo.
+
+ATENÇÃO: assets/moldura.png é a moldura de exemplo do ZIP original.
+Substitua pela moldura PNG transparente personalizada da Joicy antes de publicar.
+
+Envie os arquivos à raiz do repositório e ative GitHub Pages.
+Supabase preservado. Teste upload e visualização.
